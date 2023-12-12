@@ -28,6 +28,5 @@ to output into files, and takes files as input.
 dup2() is your friends
 ## pipes
 *sigh*
-
 [^1]:https://xkcd.com/686/
 [^2]:both very handsome and very cool
