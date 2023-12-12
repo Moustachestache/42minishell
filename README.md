@@ -1,2 +1,2 @@
 # 42minishell
-shellfish allergies
+minishellfish allergies
